@@ -10,16 +10,3 @@ while not at_goal():
         move()
     elif front_is_clear():
         move()
-        
-    
-        
-            
-            
-
-
-     
-     
-################################################################
-# WARNING: Do not change this comment.
-# Library Code is below.
-################################################################
