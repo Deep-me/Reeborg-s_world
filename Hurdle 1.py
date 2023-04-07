@@ -14,7 +14,3 @@ for i in range (0,6):
         move()
         turn_left()
      
-################################################################
-# WARNING: Do not change this comment.
-# Library Code is below.
-################################################################
