@@ -14,10 +14,4 @@ def jump():
    
 
 while at_goal()!=True:
-     jump()   
-     
-     
-################################################################
-# WARNING: Do not change this comment.
-# Library Code is below.
-################################################################
+     jump()
