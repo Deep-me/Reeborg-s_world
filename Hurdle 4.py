@@ -12,15 +12,3 @@ while not at_goal():
         move()
         turn_right()
         move()
-    
-        
-            
-            
-
-
-     
-     
-################################################################
-# WARNING: Do not change this comment.
-# Library Code is below.
-################################################################
