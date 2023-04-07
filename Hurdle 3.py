@@ -16,10 +16,3 @@ while at_goal()!=True:
         jump()
     else:
         move()
-
-     
-     
-################################################################
-# WARNING: Do not change this comment.
-# Library Code is below.
-################################################################
